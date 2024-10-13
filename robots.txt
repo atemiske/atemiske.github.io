@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atemiske.github.io/sitemap.html.gz
+Sitemap: https://atemiske.github.io/app/sitemap.html.gz
+Sitemap: https://atemiske.github.io/assets/sitemap.html.gz
+Sitemap: https://atemiske.github.io/css/sitemap.html.gz
+Sitemap: https://atemiske.github.io/includes/sitemap.html.gz
+Sitemap: https://atemiske.github.io/item/sitemap.html.gz
+Sitemap: https://atemiske.github.io/src/sitemap.html.gz
